@@ -1,2 +1,2 @@
 # SoftUni
-Problems from the Software University
+My solutions to some interesting problems given at the Software University (SoftUni)
