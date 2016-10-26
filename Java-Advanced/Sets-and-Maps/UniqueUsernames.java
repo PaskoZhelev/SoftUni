@@ -2,7 +2,7 @@
 Write a simple program that reads from the console a sequence of usernames and keeps
 a collection with only the unique ones. Print the collection on the console in order of insertion:
  */
-package programmingfundamentals;
+package javaadvanced;
 
 import java.util.HashSet;
 import java.util.LinkedHashSet;
