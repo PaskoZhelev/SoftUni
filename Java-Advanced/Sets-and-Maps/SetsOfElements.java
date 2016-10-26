@@ -3,7 +3,7 @@
 there are n numbers that are in the first set and m numbers that are in the second one.
 Find all non-repeating element that appears in both of them, and print them at the console
  */
-package programmingfundamentals;
+package javaadvanced;
 
 import java.util.HashSet;
 import java.util.LinkedHashSet;
